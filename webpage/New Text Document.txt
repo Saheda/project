@@ -1,0 +1,7 @@
+.jumbotron
+{
+background-image:url(web.jpg)";
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
